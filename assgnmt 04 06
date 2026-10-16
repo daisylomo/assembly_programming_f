@@ -1,0 +1,500 @@
+   44  Oxeye7714.
+   45  clear
+   46  su root
+   47  su root
+   48  su root
+   49  su -
+   50  su kali
+   51  su ubuntu
+   52  su root
+   53  sudo -i
+   54  pwd
+   55  passwd
+   56  passwd /
+   57  passwd root
+   58  sudo -i
+   59  id
+   60  sudo -i
+   61  add user strath
+   62  user add strath
+   63  add users strath
+   64  adduser strath
+   65  ld -m elf_i386 01_immediate.o
+   66  nasm -f elf32 01_immediate.asm
+   67  nasm -f elf32 01_immediate.asm
+   68  cd 02_data_movement
+   69  cd 32
+   70  nasm -f elf32 01_immediate.asm
+   71  ld -m elf_i386 01_immediate.o
+   72  ./a.out
+   73  gdb -silent a.out
+   74  nasm -f elf32 01_immediate.asm
+   75  ld -m elf_i386 01_immediate.o -o windows
+   76  ld -m elf_i386 01_immediate.o
+   77  clear
+   78  gdb -silent a.out
+   79  git config --global user.email "daisylyonyimbo@gmail.com"
+   80  git config --global user.name "daisylomo"
+   81  id
+   82  sudo -i
+   83  sudo -i
+   84  sudo -i
+   85  cd 02_data_movement
+   86  cd 64
+   87  history
+   88  nasm -f elf64 01_immediate.asm
+   89  ld -m elf_i386 01_immediate.o
+   90  ld -m elf_x86_64 01_immediate.o
+   91  gdb -silent a.out
+   92  gdb -silent a.out
+   93  mkdir friday
+   94  ls -l friday
+   95  ls friday
+   96  ls -l root
+   97  ls -l /
+   98  history
+   99  touch friday.txt
+  100  history >> friday.txt
+  101  chmod 000 friday.txt
+  102  chmod ooo friday.txt
+  103  000 friday.txt
+  104  cat friday.txt
+  105  ls -l friday.txt
+  106  chmod 777 friday.txt
+  107  cat friday.txt
+  108  cp friday.txt friday
+  109  ls friday
+  110  ls -l friday
+  111  chmod 000 friday
+  112  ls friday
+  113  ls -l friday
+  114  chmod 000 friday.txt
+  115  ls friday.txt
+  116  history > friday.txt
+  117  chmod 777 friday.txt
+  118  chmod 664 friday
+  119  ls friday
+  120  ls -l friday
+  121  chmod 777 friday
+  122  ls -l friday
+  123  adduser strath
+  124  ls root
+  125  ls -l /
+  126  ls /bin
+  127  ls /sbin
+  128  "DAISYY" > friday.txt
+  129  touch monday.txt
+  130  ls -l monday.txt
+  131  clear
+  132  ls -l monday.txt
+  133  chmod 700 monday.txt
+  134  ls -l monday.txt
+  135  chmod 664 monday.txt
+  136  ls -l monday.txt
+  137  chmod 555 monday.txt
+  138  ls -l monday.txt
+  139  chmod 421 monday.txt
+  140  ls -l monday.txt
+  141  chmod -u x
+  142  chmod -u+x monday.txt 
+  143  ls -l monday.txt
+  144  chmod go+r monday.txt
+  145  ls -l monday.txt
+  146  chmod ugo+rwx
+  147  chmod ugo+rwx monday.txt
+  148  chmod ugo+rwx
+  149  chmod ugo+rwx monday.txt
+  150  ls -l monday.txt
+  151  chmod ugo+r monday.txt
+  152  ls -l monday.txt
+  153  chmod 700 monday.txt
+  154  ls -l monday.txt
+  155  chmod ugo+r monday.txt
+  156  ls -l monday.txt
+  157  chmod 777 monday.txt
+  158  ls -l monday.txt
+  159  chmod go-r monday.txt
+  160  ls -l monday.txt
+  161  chmod ug=rwx monday.txt
+  162  ls -l monday.txt
+  163  chmod 000 monday.txt
+  164  ls -l monday.txt
+  165  chmod a+rw monday.txt
+  166  ls -l monday.txt
+  167  user
+  168  id
+  169  whoami
+  170  who
+  171  w
+  172  users
+  173  id
+  174  touch tuesday.txt
+  175  ls -l tuesday.txt
+  176  sudo -i
+  177  ls -l /
+  178  sudo -i
+  179  ls -l an
+  180  cd 02_data_movement
+  181  cd 64
+  182  ls -l an
+  183  ls -an
+  184  ssh-keygen -t ed25519 -C "daisylyonyimbo@gmail.com"
+  185  cat ~/.ssh/id_ed25519.pub | clip
+  186  sudo apt install geomview
+  187  cat ~/.ssh/id_ed25519.pub | clip
+  188  cat ~/.ssh/id_ed25519.pub | clip.exe
+  189  exit
+  190  git clone git@github.com:daisylomo/first-contributions.git
+  191  cd first-contributions
+  192  git switch -c add-first-contr
+  193  git branch
+  194  git add Contributors.md
+  195  git commit -m "add Daisy Lomo to Contibutors list"
+  196  git push -u origin add-first-contr
+  197  ls /bin > less1.txt
+  198  cat less1.txt
+  199  cat -n less1.txt
+  200  ls /bin
+  201  history >> less1.txt
+  202  cat less1.txt
+  203  more less1.txt
+  204  ls /bin >> less1.txt
+  205  more less1.txt
+  206  cat less1.txt
+  207  | less1.txt
+  208  cat less1.txt | less1.txt
+  209  cat less1.txt | more less1.txt
+  210  less less1.txt
+  211  ls /etc/profile
+  212  ls /etc/profile/1000g
+  213  ls /etc/profile/1000G
+  214  cat less1.txt
+  215  more less1.txt
+  216  less less1.txt
+  217  less /etc/profile
+  218  grep -user
+  219  grep 'daisylomo' /etc/passwd
+  220  grep 'daisylomo' /etc/shadow
+  221  sudo -i
+  222  vi less2.txt
+  223  vi -r nop.txt
+  224  vi -r nop.txt
+  225  vi -r nop.txt
+  226  vi -r nop.txt
+  227  q
+  228  vi -r nop.txt
+  229  vi -r nop.txt
+  230  ls -l nop.txt
+  231  ls nop.txt
+  232  ls less2.txt
+  233  chmod nop.txt
+  234  vi -r nop.txt
+  235  history >> nop.txt
+  236  wc less1.txt
+  237  wc less2.txt
+  238  wc -l passwd
+  239  wc -l /etc/passwd
+  240  wc -L less2.txt
+  241  wc -L less1.txt
+  242  wc -L nop.txt
+  243  cat less1.txt
+  244  whoami
+  245  grep daisylomo
+  246  date
+  247  date > myfile
+  248  ls /opt > myfile
+  249  ls /boot >> myfile
+  250  cat myfile
+  251  cat sysadmin.doc
+  252  ls /etc
+  253  ls -et
+  254  ls -t
+  255  cat myerrors
+  256  ls /et
+  257  ls /et > myerror
+  258  cat mylist
+  259  cat myfile
+  260  ls /opt /test > mylist 2>&1
+  261  cat mylist
+  262  ls /opt /val > mylist 2>&1
+  263  cat mylist
+  264  ls /opt /var > mylist 2>&1
+  265  cat mylist
+  266  wc mylist
+  267  wc -l mylist
+  268  wc -w mylist
+  269  grep "root" mylist
+  270  grep "ls" mylisst
+  271  grep "ls" mylist
+  272  ls / /var > mylist 2>&1
+  273  grep "root" mylist
+  274  head mylist
+  275  tail mylist
+  276  mylist
+  277  cat mylist
+  278  head -2 mylist
+  279  tail -4 mylist
+  280  sort 
+  281  sort 
+  282  sort 
+  283  sort -r
+  284  tr
+  285  tr a-z A-Z
+  286  tr a-z A-Z < /etc/motd
+  287  ls /etc
+  288  ls /opt
+  289  ls .magic
+  290  ls .magic
+  291  ls /magic
+  292  history > mylist
+  293  ls mylist
+  294  cat mylist
+  295  tr a-z A-Z < /mylist
+  296  tr a-z A-Z < mylist
+  297  tr a-z A-Z < mylist > outfile
+  298  cat outfile
+  299  cat mylist
+  300  less uppercase.txt
+  301  rename outfile uppercase.txt
+  302  outfile >uppercase.txt
+  303  outfile > uppercase.txt
+  304  ls /bin
+  305  ls /bin | less
+  306  ls /bin | less | wc -l
+  307  ls
+  308  ls -l
+  309  cat less1.txt
+  310  cat less2.txt
+  311  ls
+  312  cat abc.doc
+  313  cat abc.txt
+  314  cat monday.txt
+  315  cat friday.txt
+  316  cat nop.txt
+  317  ls
+  318  cat tuesday.txt
+  319  cp /less2.txt monday.txt
+  320  cp less2.txt monday.txt
+  321  cat monday.txt
+  322  cp less2.txt
+  323  mv less2.txt /Projects
+  324  ls Projects
+  325  ls friday
+  326  mv less2.txt /friday
+  327  ls -l /
+  328  cd Projects
+  329  cd ..
+  330  cd Projects
+  331  cd -
+  332  cd --
+  333  cd _
+  334  man ls
+  335  git pull
+  336  git pull
+  337  git sync
+  338  git --help
+  339  vscode
+  340  vs code
+  341  .code
+  342  code
+  343  git status
+  344  git branhc
+  345  git remote -v
+  346  nasm -f elf32 add1.asm -o add1.o
+  347  cd 03_arithmetic
+  348  cd 03_arithmetic
+  349  cd add
+  350  nasm -f elf32 add1.asm -o add1.o
+  351  ld -m elf_i386 add1.o -o add1
+  352  gdb ./add1
+  353  gdb -silent a.out
+  354  gdb -silent add1.out
+  355  gdb -silent add1
+  356  gdb -silent add1.o
+  357  gdb ./add1
+  358  gdb ./add1
+  359  nasm -f elf32 add2.asm -o add2.o
+  360  ld -m elf_i386 add2.o -o add2
+  361  gdb ./add1
+  362  gdb ./add2
+  363  gdb ./add2
+  364  gdb ./add2
+  365  gdb ./add1
+  366  cd ..
+  367  nasm -f elf32 sub1.asm -o sub1.o
+  368  ld -m elf_i386 sub1.o -o sub1
+  369  gdb -silent sub1
+  370  nasm -f elf32 sub2.asm -o sub2
+  371  ld -m elf_i386 sub2.o -o sub2
+  372  gdb -silent sub2
+  373  nasm -f elf32 mul1.asm -o mul1.o
+  374  cd ..
+  375  cd mul
+  376  nasm -f elf32 mul1.asm -o mul1.o
+  377  ld -m elf_i386 mul1.o -o mul1
+  378  gdb -silent mul1
+  379  nasm -f elf32 mul2.asm -o mul2.o
+  380  ld -m elf_i386 mul2.o -o mul2
+  381  gdb -silent mul2
+  382  cd ..
+  383  cd div
+  384  nasm -f elf32 div1.asm -o div1.o
+  385  ld -m elf_i386 div1.o -o div1
+  386  gdb -silent div1
+  387  nasm -f elf32 div2.asm -o div2.o
+  388  ld -m elf_i386 div2.o -o div2
+  389  gdb -silent div2
+  390  git branch
+  391  git switch assignment/03_arithmetic
+  392  git switch -c assignment/03_arithmetic
+  393  git add .
+  394  git commit -m "read status flags"
+  395  git reset HEAD~1
+  396  git checkout main
+  397  git branch -D assignment/03_arithmetic
+  398  cd ..
+  399  cd ..
+  400  git switch -c assgnmt/03_arithmetic
+  401  git add .
+  402  git commit -m "read status flags"
+  403  git push
+  404  git status
+  405  touch canada.txt
+  406  ls
+  407  touch canada.txt theuri.txt
+  408  ls
+  409  ln canada.txt theuri.txt
+  410  ls -ln canada.txt theuri.txt
+  411  ls -lns canada.txt theuri.txt
+  412  ls -s canada.txt black.txt
+  413  ln -s canada.txt black.txt
+  414  ls
+  415  ls canada.txt black.txt
+  416  cat history
+  417  history > canada.txt
+  418  cat black.txt
+  419  canada.txt red.txt
+  420  ln canada.txt red.txt
+  421  ls
+  422  ls -l
+  423  / > red.txt
+  424  cat /
+  425  ls / > red.txt
+  426  cat black.txt
+  427  ls -l
+  428  rf black.txt
+  429  rm black.txt
+  430  rm red.txt
+  431  ls
+  432  ls
+  433  rm canada.txt
+  434  mkdir clock/desk/chair.txt
+  435  mkdir clock/desk
+  436  mkdir clock desk chair.txt
+  437  ls
+  438  rm clock
+  439  rm -r clock
+  440  rm -r desk
+  441  rm chair.txt
+  442  rm -r chair.txt
+  443  mkdir clock
+  444  cd clock
+  445  mkdir desk
+  446  cd desk
+  447  touch chair.txt
+  448  chmod 000 clock
+  449  chmod 440 clock
+  450  cd ..
+  451  cd ..
+  452  chmod 440 clock
+  453  history > chair.txt
+  454  ls
+  455  rm chair.txt
+  456  cd clock/desk
+  457  cd clock
+  458  chmod 400 clock
+  459  cd clock
+  460  chmod 700 clock
+  461  cd clock
+  462  cd desk
+  463  cat chair.txt
+  464  history > chair.txt
+  465  cat chair.txt
+  466  cd ../
+  467  cd ../
+  468  chmod 100 clock
+  469  cd clock
+  470  ls
+  471  cd ..
+  472  chmod 500 clock
+  473  cd clock
+  474  ls
+  475  ls -l *.txt
+  476  cd ..
+  477  ls -l *.txt
+  478  ls -l l*.txt
+  479  cp -rv / clock
+  480  chmod 700 clock
+  481  cp -rv / clock
+  482  rm *.txt
+  483  ls
+  484  cp clock pwd
+  485  cp clock /*.*..
+  486  cp -r clock /*.*..
+  487  touch minutes.txt
+  488  mkdir "board meeting"
+  489  ls
+  490  cd "board meeting"
+  491  mkdir January February
+  492  ls
+  493  cd ..
+  494  chmod 764 minutes.txt
+  495  ls -la
+  496  chmod 764 minutes.txt
+  497  ls -l minutes.txt
+  498  chmod u=rwx,g=rw,o=r minutes.txt
+  499  ls -l minutes.txt
+  500  cd 04_logic_and_conditions/
+  501  nasm -f elf32 and.asm -o and.o
+  502  ld -m elf_i386 -o and and.o
+  503  ./and
+  504  lay asm
+  505  gdb -silent a.out
+  506  gdb -silent and.out
+  507  gdb -silent and.o
+  508  nasm -f elf32 not.asm -o not.o
+  509  ld -m elf_i386 -o not not.o
+  510  ./not
+  511  nasm -f elf32 or.asm -o or.o
+  512  ld -m elf_i386 -o or or.o
+  513  ./or
+  514  nasm -f elf32 test.asm -o test.o
+  515  ld -m elf_i386 -o test test.o
+  516  ./test
+  517  nasm -f elf32 xor.asm -o xor.o
+  518  ld -m elf_i386 -o xor xor.o
+  519  ./xor
+  520  cd ..
+  521  cd 06_loop/
+  522  nasm -f elf32 01_loop_instruction.asm -o 01_loop_instruction.o
+  523  nasm -f elf64 01_loop_instruction.asm -o 01_loop_instruction.o
+  524  ld 01_loop_instruction.o -o 01_loop_instruction
+  525  ./01_loop_instruction
+  526  nasm -f elf64 02_dec_jnz.asm -o 02_dec_jnz.o
+  527  ld 02_dec_jnz.o -o 02_dec_jnz
+  528  ./02_dec_jnz 
+  529  nasm -f elf64 04_while_loop.asm -o 04_while_loop.o
+  530  ld 04_while_loop.o -o 04_while_loop
+  531  ./04_while_loop
+  532  nasm -f elf64 07_sum_loop.asm -o 07_sum_loop.o
+  533  ld 07_sum_loop.o -o 07_sum_loop
+  534  ./07_sum_loop 
+  535  nasm -f elf64 08_infinite_loop.asm -o 08_infinite_loop.o
+  536  ld 08_infinite_loop.o -o 08_infinite_loop
+  537  ./08_infinite_loop 
+  538  nasm -f elf64 09_loop_syscall.asm -o 09_loop_syscall.o
+  539  ld 09_loop_syscall.o -o 09_loop_syscall
+  540  ./09_loop_syscall 
+  541  history > "assgnmt 04 06"
+  542  cd ..
+  543  history > "assgnmt 04 06"
